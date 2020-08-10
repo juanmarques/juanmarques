@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Juan a Software Engineer with 7 years of experience and passionate about technology . I mostly do back-end / Architecture work in Java , but I also have some experience working on front-end development, specially with extJs and Angular. I also know something about cloud infrastructure like AWS.
+### Hello there! I'm Juan a Software Engineer with 7+ years of experience and passionate about technology . I mostly do back-end development / Architecture / Enterprise Architecture / Cloud work, but I also have some experience working on front-end development, specially with extJs and Angular. I also know something about cloud infrastructure like AWS
 
-- 🌱 I’m currently learning [Angular].
+- 🌱 I’m currently learning [Angular] / [ReactJS].
 
 - 📫 How to reach me: [LinkedIn] / [Twitter]
 <!--
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 [Angular]:<https://github.com/angular/>
 [LinkedIn]:<https://www.linkedin.com/in/juan-marques/>
 [Twitter]:<https://twitter.com/j_marques1/>
+[ReactJS]:<https://reactjs.org/>
