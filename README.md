@@ -1,4 +1,4 @@
-### Hello there! I'm Juan a Software Engineer with 7+ years of experience and passionate about technology . I mostly do back-end development / Architecture / Enterprise Architecture / Cloud work, but I also have some experience working on front-end development, specially with extJs and Angular. I also know something about cloud infrastructure like AWS
+### Hello there! I'm Juan passionate about technology and an experienced in Solutions Architecture / Enterprise Architecture / Cloud Architecture.
 
 - 🌱 I’m currently learning [Angular] / [ReactJS].
 
