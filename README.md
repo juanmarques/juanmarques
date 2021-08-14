@@ -1,20 +1,10 @@
 <h4>Hello, I'm Juan, an experienced technologist with a demonstrated history of working in global companies (Financial and Life Sciences) and high-tech companies. Skilled in team management, strategic leadership, digital transformation and technical subjects<h3/>
 
-- 🌱 I’m currently learning [Angular] / [ReactJS]
-- 📫 How to reach me: [LinkedIn] / [Twitter]
-
- <br>
  <div>
   <a href="https://github.com/juanmarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarques&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
-[Angular]:<https://github.com/angular/>
-[LinkedIn]:<https://www.linkedin.com/in/juan-marques/>
-[Twitter]:<https://twitter.com/j_marques1/>
-[ReactJS]:<https://reactjs.org/>
 
  <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -37,6 +27,7 @@
 <div> 
   <a href = "mailto:contato@1juanmarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-marques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<a href="https://twitter.com/j_marques1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ 
 ![Snake animation](https://github.com/juanmarques/juanmarques/blob/output/github-contribution-grid-snake.svg)
  </div>
