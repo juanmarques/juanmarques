@@ -1,4 +1,4 @@
-<h4>Hello there I'm Juan an Experienced Technologist with a demonstrated history of working in global companies in the industry (Financial and Life Sciences) and high-tech companies. Skilled in team management,strategic leadership, digital transformation and technical subjects<h3/>
+<h4>Hello there I'm Juan an experienced technologist with a demonstrated history of working in global companies in the industry (Financial and Life Sciences) and high-tech companies. Skilled in team management,strategic leadership, digital transformation and technical subjects<h3/>
 
 - 🌱 I’m currently learning [Angular] / [ReactJS]
 - 📫 How to reach me: [LinkedIn] / [Twitter]
